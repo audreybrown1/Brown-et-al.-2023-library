@@ -1,0 +1,86 @@
+﻿Species,Gene name,Histonetype,Canonical/Variant/H1,Hairpin,Chromosome,Start
+Elegans,hil-8,H1,H1,N,1,5463117
+Elegans,Y73B6A.1,H1,H1,N,4,6661204
+Elegans,hil-5,H1,H1,N,1,5774585
+Elegans,hil-6,H1,H1,N,5,2030507
+Elegans,hil-4,H1,H1,N,5,4754313
+Elegans,his-24,H1,H1,N,X,14490094
+Elegans,hil-2,H1,H1,N,4,6294240
+Elegans,hil-1,H1,H1,N,5,14949777
+Elegans,hil-3,H1,H1,N,X,8159169
+Elegans,his-3 ,H2A,C,Y,5,16040808
+Elegans,his-7 ,H2A,C,Y,5,8533400
+Elegans,his-12 ,H2A,C,Y,2,13821198
+Elegans,his-16 ,H2A,C,Y,2,13817760
+Elegans,his-19 ,H2A,C,Y,5,8895765
+Elegans,his-21 ,H2A,C,Y,5,8891883
+Elegans,his-30 ,H2A,C,Y,4,8331666
+Elegans,his-33 ,H2A,C,Y,4,8335335
+Elegans,his-43 ,H2A,C,Y,2,13827326
+Elegans,his-47 ,H2A,C,Y,4,11324056
+Elegans,his-51 ,H2A,C,Y,5,8849788
+Elegans,his-53 ,H2A,C,Y,5,8853670
+Elegans,his-61 ,H2A,C,Y,4,7485834
+Elegans,his-65 ,H2A,C,Y,4,11401092
+Elegans,his-68,H2A,C,Y,1,9989132
+Elegans,his-57 ,H2A,C,Y,4,11340390
+Elegans,htas-1,H2A,V,N,4,9682984
+Elegans,his-35,H2A,V,N,5,9544659
+Elegans,htz-1,H2A,V,N,4,4446216
+Elegans,his-58 ,H2B,C,Y,4,11339735
+Elegans,his-62 ,H2B,C,Y,4,7486545
+Elegans,his-66,H2B,C,Y,4,11400415
+Elegans,his-8 ,H2B,C,Y,5,8532715
+Elegans,his-20 ,H2B,C,Y,5,8895101
+Elegans,his-22 ,H2B,C,Y,5,8892559
+Elegans,his-52 ,H2B,C,Y,5,8850464
+Elegans,his-54,H2B,C,Y,5,8853006
+Elegans,his-11 ,H2B,C,Y,2,13821809
+Elegans,his-15 ,H2B,C,Y,2,13818371
+Elegans,his-29 ,H2B,C,Y,4,8331044
+Elegans,his-34 ,H2B,C,Y,4,8335972
+Elegans,his-44,H2B,C,Y,2,13826730
+Elegans,his-41,H2B,V,N,5,9545536
+Elegans,his-48 ,H2B,C,Y,4,11324745
+Elegans,his-4 ,H2B,C,Y,5,16040144
+Elegans,his-39,H2B,V,Y,5,8536513
+Elegans,F20D6.9,H3,V,N,5,8177093
+Elegans,cpar-1,H3,V,N,3,9434057
+Elegans,hcp-3,H3,V,N,3,9615306
+Elegans,his-70,H3,V,N,3,4059715
+Elegans,his-72,H3,V,N,3,12367475
+Elegans,his-73,H3,V,N,2,13183705
+Elegans,his-40,H3,V,Y,X,7310110
+Elegans,his-2 ,H3,C,Y,5,16041873
+Elegans,his-6 ,H3,C,Y,5,8534567
+Elegans,his-9 ,H3,C,Y,2,13823648
+Elegans,his-13 ,H3,C,Y,2,13820210
+Elegans,his-17 ,H3,C,Y,5,8897582
+Elegans,his-25 ,H3,C,Y,2,13824849
+Elegans,his-27 ,H3,C,Y,5,8890038
+Elegans,his-32 ,H3,C,Y,4,8334305
+Elegans,his-42 ,H3,C,Y,2,13828287
+Elegans,his-45 ,H3,C,Y,4,11326588
+Elegans,his-49 ,H3,C,Y,5,8847943
+Elegans,his-55 ,H3,C,Y,4,11337853
+Elegans,his-59 ,H3,C,Y,4,7488249
+Elegans,his-63,H3,C,Y,4,11406451
+Elegans,his-71,H3,V,N,X,7981382
+Elegans,his-69,H3,V,N,3,4058360
+Elegans,his-74,H3,V,N,5,12659704
+Elegans,his-1 ,H4,C,Y,5,16042520
+Elegans,his-5 ,H4,C,Y,5,8535214
+Elegans,his-10 ,H4,C,Y,2,13823064
+Elegans,his-14 ,H4,C,Y,2,13819626
+Elegans,his-18 ,H4,C,Y,5,8898228
+Elegans,his-26 ,H4,C,Y,2,13825532
+Elegans,his-28 ,H4,C,Y,5,8889488
+Elegans,his-31 ,H4,C,Y,4,8333672
+Elegans,his-37 ,H4,C,N,5,9547105
+Elegans,his-38 ,H4,C,Y,X,7309564
+Elegans,his-46 ,H4,C,Y,4,11326018
+Elegans,his-50 ,H4,C,Y,5,8847393
+Elegans,his-56 ,H4,C,Y,4,11338522
+Elegans,his-60 ,H4,C,Y,4,7487681
+Elegans,his-64 ,H4,C,Y,4,11407116
+Elegans,his-67,H4,C,Y,1,9988452
