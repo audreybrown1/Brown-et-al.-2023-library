@@ -1,5 +1,5 @@
 # Brown et al., 2024 library
-This page contains the R code used in Brown, A., Meiborg, A., Franz-Wachtel, M., Macek, B., Gordon, S., Rog, O., Weadick, CJ., and Werner, M. "Characterization of the Pristionchus pacificus “epigenetic toolkit” reveals the evolutionary loss of the histone methyltransferase complex PRC2." 2023. 
+This page contains the R code used in Brown, A., Meiborg, A., Franz-Wachtel, M., Macek, B., Gordon, S., Rog, O., Weadick, CJ., and Werner, M. "Characterization of the Pristionchus pacificus “epigenetic toolkit” reveals the evolutionary loss of the histone methyltransferase complex PRC2." 2024. 
 
 ### Histone positions (Figure 2 E-F): ###
 Code: plothistones.R
